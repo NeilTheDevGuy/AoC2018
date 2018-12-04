@@ -1,0 +1,11 @@
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\bin\Debug\netcoreapp2.1\AoC2018.deps.json
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\bin\Debug\netcoreapp2.1\AoC2018.runtimeconfig.json
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\bin\Debug\netcoreapp2.1\AoC2018.runtimeconfig.dev.json
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\bin\Debug\netcoreapp2.1\AoC2018.dll
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\bin\Debug\netcoreapp2.1\AoC2018.pdb
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\obj\Debug\netcoreapp2.1\AoC2018.csprojAssemblyReference.cache
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\obj\Debug\netcoreapp2.1\AoC2018.csproj.CoreCompileInputs.cache
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\obj\Debug\netcoreapp2.1\AoC2018.AssemblyInfoInputs.cache
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\obj\Debug\netcoreapp2.1\AoC2018.AssemblyInfo.cs
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\obj\Debug\netcoreapp2.1\AoC2018.dll
+C:\WorkArea\ScratchProjects\AOC2018\AoC2018\AoC2018\obj\Debug\netcoreapp2.1\AoC2018.pdb
