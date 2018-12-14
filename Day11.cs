@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Reflection.Metadata;
 using System.Text;
 
@@ -9,7 +10,7 @@ namespace AoC2018
     {
         internal static void Run()
         {
-            PartOne(9810);
+            //PartOne(9810);
             PartTwo(9810);
         }
 
@@ -46,6 +47,8 @@ namespace AoC2018
 
         private static void PartTwo(int serial)
         {
+            var sw = new Stopwatch();
+            sw.Start();
             var highestPowerLevel = 0;
             var topX = 0;
             var topY = 0;
@@ -54,6 +57,7 @@ namespace AoC2018
             //Make a cup of tea...
             for (var x = 1; x <= 297; x++)
             {
+                Console.WriteLine(x);
                 for (var y = 1; y <= 297; y++)
                 {
                     for (var size = 2; size <= 300; size++)
@@ -72,8 +76,8 @@ namespace AoC2018
                     }
                 }
             }
-            
-            Console.WriteLine($"HighestPower = {highestPowerLevel}, Coordinate: {topX},{topY},{topSize}");
+            sw.Stop();
+            Console.WriteLine($"HighestPower = {highestPowerLevel}, Coordinate: {topX},{topY},{topSize} Time(s): {sw.Elapsed.TotalSeconds}");
         }
 
         private static int CalcPower(int x, int y, int serial)
